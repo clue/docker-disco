@@ -3,6 +3,8 @@
 [Disco](https://github.com/carlwoodward/disco) is a simple visual GitHub browser.
 This is a [docker](https://www.docker.io) image that eases setup.
 
+![Gif](http://cl.ly/image/322n0e223e32/Screen%20Recording%202014-09-08%20at%2012.10%20pm.gif)
+
 ## Usage
 
 This docker image is available as a [trusted build on the docker index](https://index.docker.io/u/clue/disco/),
